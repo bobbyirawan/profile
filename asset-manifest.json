@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.d1435ea8.chunk.js",
-    "main.js.map": "/static/js/main.d1435ea8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
-    "static/css/2.ec02d681.chunk.css": "/static/css/2.ec02d681.chunk.css",
-    "static/js/2.78d7c379.chunk.js": "/static/js/2.78d7c379.chunk.js",
-    "static/js/2.78d7c379.chunk.js.map": "/static/js/2.78d7c379.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/static/css/2.ec02d681.chunk.css.map",
-    "static/js/2.78d7c379.chunk.js.LICENSE.txt": "/static/js/2.78d7c379.chunk.js.LICENSE.txt",
-    "static/media/Notfound.4861ae77.svg": "/static/media/Notfound.4861ae77.svg",
-    "static/media/bobby.9b5b4fcf.png": "/static/media/bobby.9b5b4fcf.png",
-    "static/media/certificate.23991a58.pdf": "/static/media/certificate.23991a58.pdf",
-    "static/media/icon.d0abdb81.gif": "/static/media/icon.d0abdb81.gif"
+    "main.js": "/profile/static/js/main.d1435ea8.chunk.js",
+    "main.js.map": "/profile/static/js/main.d1435ea8.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.2b77736e.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.2b77736e.js.map",
+    "static/css/2.ec02d681.chunk.css": "/profile/static/css/2.ec02d681.chunk.css",
+    "static/js/2.8cc9a846.chunk.js": "/profile/static/js/2.8cc9a846.chunk.js",
+    "static/js/2.8cc9a846.chunk.js.map": "/profile/static/js/2.8cc9a846.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/profile/static/css/2.ec02d681.chunk.css.map",
+    "static/js/2.8cc9a846.chunk.js.LICENSE.txt": "/profile/static/js/2.8cc9a846.chunk.js.LICENSE.txt",
+    "static/media/Notfound.4861ae77.svg": "/profile/static/media/Notfound.4861ae77.svg",
+    "static/media/bobby.9b5b4fcf.png": "/profile/static/media/bobby.9b5b4fcf.png",
+    "static/media/certificate.23991a58.pdf": "/profile/static/media/certificate.23991a58.pdf",
+    "static/media/icon.d0abdb81.gif": "/profile/static/media/icon.d0abdb81.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0605945.js",
+    "static/js/runtime-main.2b77736e.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.78d7c379.chunk.js",
+    "static/js/2.8cc9a846.chunk.js",
     "static/js/main.d1435ea8.chunk.js"
   ]
 }
